@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="precifica">
+    <output-path>$PROJECT_DIR$/out/artifacts/precifica</output-path>
+    <root id="archive" name="precifica.jar">
+      <element id="module-output" name="Precificacao" />
+    </root>
+  </artifact>
+</component>
